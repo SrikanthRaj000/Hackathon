@@ -1,0 +1,11 @@
+<suite name="Clash of Test titans hackathon">
+  <test name="Hackathon test">
+    <listeners>
+      <listener class-name="utils.listeners.TestListener"/>
+      <listener class-name="utils.listeners.AnnotationTransformer"/>
+    </listeners>
+    <classes>
+      <class name="Tests.HackathonTests"></class>
+    </classes>
+  </test>
+</suite>

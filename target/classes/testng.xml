@@ -1,0 +1,7 @@
+<suite name="Clash of Test titans hackathon">
+  <test name="Hackathon test">
+    <classes>
+      <class name="Tests.HackathonTests"></class>
+    </classes>
+  </test>
+</suite>
